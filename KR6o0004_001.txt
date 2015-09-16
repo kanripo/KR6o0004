@@ -1,23 +1,19 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:59:11.518721
+#+DATE: 2015-08-30 20:59:12.854854
 #+TITLE: 迴諍論
 #+PROPERTY: CBETA_ID T32n1631
 #+PROPERTY: ID KR6o0004
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 32, No. 1631
 #+PROPERTY: VOL 32
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6o0004_T_000-0013b>¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6o0004_T_001-0013b> ¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
-No.1631¶
+No. 1631¶
 
-序迴諍論翻譯之記
-:PROPERTIES:
-:head: 序迴諍論翻譯之記
-:END:
-¶
+序迴諍論翻譯之記¶
 ¶
 
 迴諍論者。龍樹菩薩之所作也。數舒盧迦三¶
@@ -31,12 +27,9 @@ No.1631¶
 啟請供養。且記時事。以章以聞。令樂法者。¶
 若見若聞。同崇翻譯矣。¶
 ¶
-
- 
-1偈初分迴諍論偈初分第一¶
+迴諍論偈初分第一¶
 ¶
-龍樹菩薩造¶
-後魏三藏毘目智仙共瞿曇流支譯¶
+龍樹菩薩造後魏三藏毘目智仙共瞿曇流支譯¶
 
 問曰偈言。¶
 
@@ -130,11 +123,7 @@ No.1631¶
 #+END_VERSE
 」¶
 
-2偈上分
-:PROPERTIES:
-:head: 《迴諍論》偈上分第二
-:END:
-¶
+《迴諍論》偈上分第二¶
 
 #+BEGIN_VERSE
 「　我語言若離
@@ -347,11 +336,7 @@ No.1631¶
 #+END_VERSE
 」¶
 
-3釋初分
-:PROPERTIES:
-:head: 《迴諍論》釋初分第三
-:END:
-¶
+《迴諍論》釋初分第三¶
 
 釋曰論初偈言。
 <pb:KR6o0004_T_001-0015b>¶
@@ -722,11 +707,7 @@ No.1631¶
 左不因右右不因左。如是若說一切諸法無¶
 自體者。是義不然。釋初分竟。¶
 
-4釋上分
-:PROPERTIES:
-:head: 《迴諍論》釋上分第四
-:END:
-¶
+《迴諍論》釋上分第四¶
 
 釋曰。如汝所說我今答汝。汝說偈言。¶
 
